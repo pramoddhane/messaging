@@ -22,6 +22,7 @@ Sample Output :
 { "success": true }
 
 Defined Errors : Please insert two email Ids 
+Invalid Email Id
 
 
 Path : /getFriendsList
@@ -41,6 +42,7 @@ Output :
 }
 
 Defined Errors : for invalid Email - No Friend List available
+Invalid Email ID
 
 Path : /getCommonFriendsList
 Input :
